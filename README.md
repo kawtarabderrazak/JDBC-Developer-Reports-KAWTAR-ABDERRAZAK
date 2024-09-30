@@ -36,4 +36,5 @@ MySQL : Base de données relationnelle pour stocker les données des développeu
 Pilote JDBC MySQL : Nécessaire pour connecter Java à MySQL.
 NetBeans ou tout autre IDE Java compatible.
 
+https://github.com/user-attachments/assets/c9c1e84e-6bf4-4c6f-85be-8b95c1f297f9
 
